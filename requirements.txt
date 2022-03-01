@@ -13,7 +13,6 @@ bottleneck
 brotlipy
 cached-property
 comtypes
-conda-token
 contextlib2
 cython
 cytoolz
